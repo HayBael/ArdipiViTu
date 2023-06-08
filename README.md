@@ -1,6 +1,7 @@
 # RDP
 
-> [ How To Get RDP ]
+> How To Get RDP
+
 > Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
 
 > visit https://dashboard.ngrok.com to get NGROK_AUTH_TOKEN
